@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6fa744c3-ad81-49ed-9022-30d9dcca202b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "shopWeed": {
+      "ver": "1.0.3",
+      "uuid": "8c3cc6e7-7dcb-4efa-bc04-f7862d28581a",
+      "rawTextureUuid": "6fa744c3-ad81-49ed-9022-30d9dcca202b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1014,
+      "height": 1846,
+      "rawWidth": 1014,
+      "rawHeight": 1846,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

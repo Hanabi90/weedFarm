@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bdd14b66-84da-4bac-bd76-2132bdd81ba1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Icons-Currencies-Money": {
+      "ver": "1.0.3",
+      "uuid": "2db82a40-1392-4138-b722-9f58feb033d0",
+      "rawTextureUuid": "bdd14b66-84da-4bac-bd76-2132bdd81ba1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 29,
+      "height": 33,
+      "rawWidth": 29,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

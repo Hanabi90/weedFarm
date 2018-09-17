@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "04194b42-dc77-41e6-981a-5138d031cede",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Popup-Jars-Card Background": {
+      "ver": "1.0.3",
+      "uuid": "5ca64aa3-3897-4a46-b836-e7cc22247503",
+      "rawTextureUuid": "04194b42-dc77-41e6-981a-5138d031cede",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 50,
+      "height": 50,
+      "rawWidth": 50,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

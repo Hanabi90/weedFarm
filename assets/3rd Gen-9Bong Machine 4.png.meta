@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0e382892-3d19-4a68-859b-06dd19b95abc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "3rd Gen-9Bong Machine 4": {
+      "ver": "1.0.3",
+      "uuid": "ca4c9d85-3a0d-404f-a363-dd162973e39a",
+      "rawTextureUuid": "0e382892-3d19-4a68-859b-06dd19b95abc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 21,
+      "height": 21,
+      "rawWidth": 21,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
